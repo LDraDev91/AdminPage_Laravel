@@ -1,0 +1,25 @@
+.main-page {
+  padding: 20px;
+}
+.mn {
+  color: #808080 !important;
+}
+.active-mn {
+  text-decoration: underline;
+  color: #ffffff !important;
+}
+table{
+  font-size: 16px;
+}
+.navbar-default{
+    background-color: #0f253a !important;
+}
+.borderset{
+  border-left: 2px solid;
+  border-right: 2px solid;
+}
+
+.scroll-cus{
+  width: 1128px;
+  overflow: auto;
+}
